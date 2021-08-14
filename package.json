@@ -1,0 +1,16 @@
+{
+  "name": "petgram",
+  "version": "1.0.0",
+  "description": "petgram whith react end apollo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "apollo",
+    "js"
+  ],
+  "author": "jeffreyvegas",
+  "license": "ISC"
+}
